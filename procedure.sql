@@ -1,0 +1,3 @@
+-- procedure  in mysql
+-- stored procedure is a set of pre compiled sql statements stored within the database
+-- improving performance by reducing network  traffic
